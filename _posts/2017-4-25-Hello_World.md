@@ -5,7 +5,7 @@ title: Hello World
 
 This is my first Post on the github pages.
 
-'''java
+```java
 String str = "hello world";
 System.out.println(str);
-'''
+```
